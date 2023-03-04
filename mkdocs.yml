@@ -1,0 +1,13 @@
+site_name: Filosofia ESO 4t
+theme: readthedocs
+docs_dir: md
+site_dir: docs
+nav:
+    - Inici: index.md
+    - 2. El naixement de la filosofia:
+      - 1. Com va sorgir històricament la filosofia: ud21.md
+      - 2. El començament de la filosofia a Grècia:  ud22.md
+      - 3. Què és la naturalesa?: ud23.md
+      - 4. Els sofistes i Sòcrates: ud24.md
+      - 5. Els grans filòsofs clàssics  Plató i Aristòil: ud25.md
+    - Quant a: about.md
